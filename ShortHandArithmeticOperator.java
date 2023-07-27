@@ -3,11 +3,13 @@ public class ShortHandArithmeticOperator {
 	public static void main(String[] args){
 		
 		int a = 10;
-		a = a + 20; // a +=20;
+		a = a + 20; 
+		// a +=20;
 		System.out.println(a); //30
 
 		int b = 10;
-		b +=20;
+		b +=20; 
+		// b = b + 20;
 		System.out.println(b); //30
 
 
