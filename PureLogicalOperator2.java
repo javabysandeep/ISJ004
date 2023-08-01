@@ -6,6 +6,7 @@ public class PureLogicalOperator2 {
 		System.out.println( (10 > 5) || (10 < 11));//true 
 		System.out.println( (10 > 50) || (10 < 11));//true 
 		System.out.println( (10 > 5) || (100 < 11));//true 
+	
 		
 
 	}	

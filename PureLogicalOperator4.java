@@ -16,8 +16,7 @@ public class PureLogicalOperator4 {
 				
 				);//true		
 	
-	
-		
+
 
 	}	
 }
