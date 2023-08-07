@@ -1,11 +1,12 @@
-package controlStatements.conditional;
+package controlStatements.conditional.ifElseDemos;
 
-public class Demo4IfElse {
+public class Demo3If {
     public static void main(String[] args) {
-        int number = 99;
+        int number = 199;
         if (number % 2 == 0) {
             System.out.println("even number");
-        } else {
+        }
+        if (number % 2 != 0) {
             System.out.println("odd number");
         }
     }
