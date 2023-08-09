@@ -1,7 +1,8 @@
-package controlStatements.looping;
+package controlStatements.looping.forLoop;
 
 public class Demo17 {
     public static void main(String[] args) {
+        //find the factors of a given number
         // 10 = 1,2,5
         //6 = 1,2,3
         //28= 1,2,4,7,14

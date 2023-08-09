@@ -1,11 +1,11 @@
-package controlStatements.looping;
+package controlStatements.looping.forLoop;
 
-public class Demo10 {
+public class Demo8 {
     public static void main(String[] args) {
         for (int i = 10; i >= 0; ) {
             System.out.println(i);
-            i = i - 2;
+            i++;
         }
-        //10,8,6,4,2,0
+        //infinite loop : 10, 11, 12, 13,....
     }
 }

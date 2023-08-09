@@ -1,14 +1,12 @@
-package controlStatements.looping;
+package controlStatements.looping.forLoop;
 
-public class Demo15 {
+public class Demo16 {
     public static void main(String[] args) {
-        int left = 0;
-        int right = 100;
-        for (; left < right; ) {
+
+        for (int left = 0, right = 100; left < right; left++, right--){
             System.out.println(left + "\t" + right);
-            left++;
-            right--;
         }
+
         // 0 100
         // 1 99
         // . ..

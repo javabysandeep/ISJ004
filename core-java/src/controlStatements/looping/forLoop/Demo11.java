@@ -1,4 +1,4 @@
-package controlStatements.looping;
+package controlStatements.looping.forLoop;
 
 public class Demo11 {
     public static void main(String[] args) {
@@ -7,4 +7,5 @@ public class Demo11 {
             System.out.print(i + " ");
         }
     }
+    //0,2,4,6,8,...100
 }
