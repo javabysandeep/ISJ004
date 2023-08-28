@@ -5,9 +5,11 @@ public class Product {
     String productName;
     int productPrice;
 
+    //zero param : No-args constructor
     public Product() {
     }
 
+    //parameterized : all arguments constructor
     public Product(int pId, String pName, int pPrice) {
         productId = pId;
         productName = pName;

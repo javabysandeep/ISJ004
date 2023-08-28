@@ -10,7 +10,7 @@ public class Student {
     }
 
     public Student(int studentId, String studentName, String studentAddress) {
-        //assign local variable valus to instance variables.
+        //assign local variable values to instance variables.
         id = studentId;
         name = studentName;
         address = studentAddress;
