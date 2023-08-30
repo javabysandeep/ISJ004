@@ -7,7 +7,7 @@ public class Assignment01 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the month number");
         int month = scanner.nextInt();
-        switch (month) {
+        /*switch (month) {
             case 1 -> System.out.println("Jan");
             case 2 -> System.out.println("Feb");
             case 3 -> System.out.println("Mar");
@@ -21,6 +21,6 @@ public class Assignment01 {
             case 11 -> System.out.println("Nov");
             case 12 -> System.out.println("Dec");
             default -> System.out.println("Invalid Month");
-        }
+        }*/
     }
 }
