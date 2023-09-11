@@ -9,9 +9,9 @@ public class Assignment02 {
         int number = scanner.nextInt();
         int input = number > 0 ? 1 : number < 0 ? 2 : 0;
         switch (input) {
-            case 0 -> System.out.println("neutral");
+          /*  case 0 -> System.out.println("neutral");
             case 1 -> System.out.println("Positive");
-            case 2 -> System.out.println("Negative");
+            case 2 -> System.out.println("Negative");*/
         }
     }
 }

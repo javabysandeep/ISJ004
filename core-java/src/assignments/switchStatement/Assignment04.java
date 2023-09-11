@@ -14,12 +14,12 @@ public class Assignment04 {
         String operator = scanner.next();
 
         switch (operator) {
-            case "+" -> System.out.println(number1 + number2);
+         /*   case "+" -> System.out.println(number1 + number2);
             case "-" -> System.out.println(number1 - number2);
             case "*" -> System.out.println(number1 * number2);
             case "/" -> System.out.println(number1 / number2);
             case "%" -> System.out.println(number1 % number2);
-            default -> System.out.println("Invalid operator");
+            default -> System.out.println("Invalid operator");*/
         }
     }
 }

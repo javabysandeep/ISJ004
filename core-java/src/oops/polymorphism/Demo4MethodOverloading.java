@@ -1,9 +1,9 @@
 package oops.polymorphism;
 
 public class Demo4MethodOverloading {
-    public static void main(String[] args) {
+    public static void main(String[] args) {}/*{
         class Parent {
-           static final int add(int number1, int number2) {
+            final int add(int number1, int number2) {
                 return number1 + number2;
             }
         }
@@ -17,5 +17,5 @@ public class Demo4MethodOverloading {
         Child child = new Child();
         System.out.println(Parent.add(10, 20));
         System.out.println(child.add(100.0f, 200.4f));
-    }
+    }*/
 }

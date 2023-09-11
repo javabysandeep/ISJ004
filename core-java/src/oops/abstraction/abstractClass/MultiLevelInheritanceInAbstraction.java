@@ -20,8 +20,8 @@ public class MultiLevelInheritanceInAbstraction {
             }
         }
 
-        B c = new C();
+        A c = new C();
         c.m1();
-        c.m2();
+        //c.m2();//CTE
     }
 }
