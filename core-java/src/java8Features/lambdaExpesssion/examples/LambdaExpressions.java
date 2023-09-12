@@ -2,6 +2,9 @@ package java8Features.lambdaExpesssion.examples;
 
 public class LambdaExpressions {
     public static void main(String[] args) {
+        I2 ref = a -> a * a;
+        System.out.println(ref.m1(10));
+
         I1 i1 = () -> System.out.println("I1 m1 method");
         i1.m1();
 
@@ -11,7 +14,7 @@ public class LambdaExpressions {
         I3 i3 = (a) -> System.out.println("I3 m1 " + a);
         i3.m1(10);
 
-        I4 i4 =    () -> 10;
+        I4 i4 = () -> 10;
         System.out.println(i4.m1());
     }
 }
