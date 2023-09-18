@@ -1,0 +1,31 @@
+
+Z
+java:S1854
+"8Remove this useless assignment to local variable "str4".(š†º—üÿÿÿÿ8Øãµæ©1
+U
+java:S1854	"8Remove this useless assignment to local variable "str3".(ý³ýÚ8Ùãµæ©1
+Z
+java:S1854"8Remove this useless assignment to local variable "str2".(Þï–ßúÿÿÿÿ8Ùãµæ©1
+<
+java:S2129" Remove this "String" constructor(º¤Ð[8æãµæ©1
+B
+java:S2129" Remove this "String" constructor(Þï–ßúÿÿÿÿ8èãµæ©1
+K
+java:S1481")Remove this unused "str2" local variable.(Þï–ßúÿÿÿÿ8éãµæ©1
+=
+java:S2129	" Remove this "String" constructor(ý³ýÚ8ëãµæ©1
+F
+java:S1481	")Remove this unused "str3" local variable.(ý³ýÚ8ëãµæ©1
+B
+java:S2129
+" Remove this "String" constructor(š†º—üÿÿÿÿ8íãµæ©1
+K
+java:S1481
+")Remove this unused "str4" local variable.(š†º—üÿÿÿÿ8îãµæ©1
+L	java:S106"+Replace this use of System.out by a logger.(‘›Å‹øÿÿÿÿ8ðãµæ©1
+G	java:S106"+Replace this use of System.out by a logger.(…ŽÆž8òãµæ©1
+G	java:S106"+Replace this use of System.out by a logger.(¥âÄ¶8õãµæ©1
+L	java:S106"+Replace this use of System.out by a logger.( ”¦¤øÿÿÿÿ8øãµæ©1
+i
+java:S1858"G"str1" is already a string, there's no need to call "toString()" on it.( ”¦¤øÿÿÿÿ8Àý»æ©1
+L	java:S106"+Replace this use of System.out by a logger.(ôêï‚ÿÿÿÿÿ8¸Ú»æ©1
