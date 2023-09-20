@@ -16,9 +16,14 @@ public class Demo12SplitToCharArray {
 
         String string = "welcome to String handling session";
         char[] charArray = string.toCharArray();
-        for (char ch:charArray) {
+        for (char ch : charArray) {
             System.out.println(ch);
         }
+        //System.out.println('a' > 'A');
+
+        System.out.println("a".compareTo("a"));
+        System.out.println("a".compareTo("b"));
+        System.out.println("b".compareTo("a"));
 
     }
 }

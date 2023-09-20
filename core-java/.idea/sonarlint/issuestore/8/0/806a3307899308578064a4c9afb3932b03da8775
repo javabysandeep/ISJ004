@@ -1,0 +1,11 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞÎ§8 ¿Å¶ª1
+L	java:S106"+Replace this use of System.out by a logger.(ì­øúÿÿÿÿ8µ¿Å¶ª1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8¶¿Å¶ª1
+G	java:S106"+Replace this use of System.out by a logger.(ºùÆÉ8¸¿Å¶ª1
+G	java:S106"+Replace this use of System.out by a logger.(İ·Ş…8¹¿Å¶ª1
+X	java:S125"<This block of commented-out lines of code should be removed.(¼ŞÉÏ8¹¿Å¶ª1
+V
+java:S2121"9Remove this "compareTo" call; it has predictable results.(İ·Ş…8¹¿Å¶ª1
+L	java:S106"+Replace this use of System.out by a logger.(× Úëşÿÿÿÿ8ù“Æ¶ª1
+L	java:S106"+Replace this use of System.out by a logger.(şşÊ—ùÿÿÿÿ8ÅÇ¶ª1
