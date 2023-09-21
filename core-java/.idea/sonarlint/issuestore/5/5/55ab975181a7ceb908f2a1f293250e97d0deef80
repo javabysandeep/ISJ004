@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çå„Áÿÿÿÿÿ8¶ð·ˆ«1
+ž
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ù„ã…8Áð·ˆ«1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒÂä¼üÿÿÿÿ8Áð·ˆ«1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ý¤À‚ýÿÿÿÿ8Áð·ˆ«1
+c
+java:S2133"ARemove this object instantiation and use "Student.class" instead.(§…ù¼ùÿÿÿÿ8Åð·ˆ«1
+L	java:S106"+Replace this use of System.out by a logger.(›êÃ˜øÿÿÿÿ8ü÷¸ˆ«1
