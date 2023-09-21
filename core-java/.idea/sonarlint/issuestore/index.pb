@@ -43,3 +43,17 @@ W
 'src/ObjectClassDemos/Demo3HashCode.java,5\c\5c9099ea8b50cdec100a072e1ddfb337c922132b
 W
 'src/ObjectClassDemos/Demo4HashCode.java,e\0\e09f88ed73b26373fc924a8e6b864423a639eab5
+O
+src/ObjectClassDemos/Demo7.java,4\a\4a895fc7e51274099504d31f4430bd3d5eec1439
+W
+'src/ObjectClassDemos/Demo6ToString.java,7\9\79fa6274a4b0f3e4c092bdf6a1b0db1f91b42170
+U
+%src/ObjectClassDemos/Demo5Equals.java,5\a\5a0a7600fc95b081c477875405b94c4df4f7e0b4
+W
+'src/ObjectClassDemos/Demo8Finalize.java,3\1\319c9b0708d444ea592a68708f8e7f6a08d70cb9
+U
+%src/ObjectClassDemos/Demo10Clone.java,1\0\104dcfaa828a0b6b10af9fa3619ee4f1f2ae0c98
+T
+$src/ObjectClassDemos/Demo9Clone.java,a\7\a7600be24e12aabd45f39ad47c19880b6bf732c3
+^
+.src/ObjectClassDemos/Demo11ShallowCopying.java,6\0\6009bde757cdbd0b8199458829aa220b00971c4c

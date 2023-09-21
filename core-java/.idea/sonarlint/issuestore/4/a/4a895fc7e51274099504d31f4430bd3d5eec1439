@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çå„Áÿÿÿÿÿ8­Œİ°«1
+L	java:S106*"+Replace this use of System.out by a logger.(ç—†éøÿÿÿÿ8€İ°«1
+L	java:S106+"+Replace this use of System.out by a logger.(ŸÖ³úùÿÿÿÿ8İ°«1
+G	java:S106,"+Replace this use of System.out by a logger.(Ÿüï°8¯’ä°«1
+—
+java:S2159,"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ÿüï°8¯’ä°«1
+L	java:S106-"+Replace this use of System.out by a logger.(ô¿¦Èûÿÿÿÿ8ëüä°«1
+x
+java:S2159-"VRemove this call to "equals"; comparisons between unrelated types always return false.(ô¿¦Èûÿÿÿÿ8©ê°«1
