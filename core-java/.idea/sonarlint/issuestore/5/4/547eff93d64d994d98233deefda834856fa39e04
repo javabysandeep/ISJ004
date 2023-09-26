@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šçü©üÿÿÿÿ
+e
+java:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ8Í€£Ö¬1
+Y
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(Ô˜İ¡
+E	java:S106"+Replace this use of System.out by a logger.(šÇé¬ÿÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(±¨
+E	java:S106	"+Replace this use of System.out by a logger.(šÇé¬ÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÑÆœö
+G	java:S106"+Replace this use of System.out by a logger.(şéŠÜ8¾¾£Ö¬1

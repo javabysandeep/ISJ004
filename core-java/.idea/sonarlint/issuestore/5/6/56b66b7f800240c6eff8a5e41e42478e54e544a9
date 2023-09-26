@@ -1,0 +1,11 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ì×àÿ¬1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šçü©üÿÿÿÿ8Ã‘àÿ¬1
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†š­î8Ù×àÿ¬1
+`
+java:S1854"CRemove this useless assignment to local variable "fileInputStream".(†š­î8Ü×àÿ¬1
+Q
+java:S1481"4Remove this unused "fileInputStream" local variable.(†š­î8æ×àÿ¬1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Ò‘àÿ¬1

@@ -1,0 +1,15 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa8òÊÎÙ¬1
+K
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa8óÊÎÙ¬1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìòùU8ôÊÎÙ¬1
+G	java:S106"+Replace this use of System.out by a logger.(‰¾Ï£8…ËÎÙ¬1
+P
+java:S1611"3Remove the parentheses around the "input" parameter(¼£™­8º°ÔÙ¬1
+Y
+java:S1612"<Replace this lambda with method reference 'Objects::isNull'.(¼£™­8–ÔÙ¬1
+G	java:S106"+Replace this use of System.out by a logger.(…×óô8‰ËÎÙ¬1
+G	java:S106"+Replace this use of System.out by a logger.(‰¾Ï£8‰ËÎÙ¬1
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8¼°ÔÙ¬1

@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šçü©üÿÿÿÿ
+l
+java:S2259"J"NullPointerException" will be thrown when invoking method "maxElement()".(·•ð¨úÿÿÿÿ8€‘çÕ¬1
+L	java:S106"+Replace this use of System.out by a logger.(·•ð¨úÿÿÿÿ8¾žÛÕ¬1

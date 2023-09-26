@@ -1,4 +1,7 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šçü©üÿÿÿÿ8ÚØäÚ«1
-G	java:S106"+Replace this use of System.out by a logger.(¶ĞÂë8ëØäÚ«1
-]	java:S125"<This block of commented-out lines of code should be removed.(³Ó†äÿÿÿÿÿ8ëØäÚ«1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šçü©üÿÿÿÿ8ªı¹Ô¬1
+e
+java:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ8¶ı¹Ô¬1
+L	java:S106"+Replace this use of System.out by a logger.(šÇé¬ÿÿÿÿÿ8Æı¹Ô¬1
+G	java:S106"+Replace this use of System.out by a logger.(¶ĞÂë8Ñı¹Ô¬1
+X	java:S125"<This block of commented-out lines of code should be removed.(œ´†ã8Í²ºÔ¬1
