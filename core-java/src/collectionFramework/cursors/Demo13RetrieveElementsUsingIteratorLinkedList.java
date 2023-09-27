@@ -1,4 +1,4 @@
-package collectionFramework.listImplementations;
+package collectionFramework.cursors;
 
 import java.util.Iterator;
 import java.util.LinkedList;

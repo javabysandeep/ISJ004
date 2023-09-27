@@ -1,0 +1,21 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìòùU8Ÿ‚­1
+`
+java:S1854!"CRemove this useless assignment to local variable "methodReference".(û“±8¶‚­1
+L	java:S106"+Replace this use of System.out by a logger.(¬®¥ğÿÿÿÿÿ8º‚­1
+L	java:S106"+Replace this use of System.out by a logger.(²×Çøøÿÿÿÿ8»‚­1
+L	java:S106"+Replace this use of System.out by a logger.(ÕÄÍüÿÿÿÿ8¼‚­1
+L	java:S106"+Replace this use of System.out by a logger.(ì­øúÿÿÿÿ8¼‚­1
+R
+java:S1611"5Remove the parentheses around the "integer" parameter(±²®’8½‚­1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(±²®’8¾‚­1
+G	java:S106"+Replace this use of System.out by a logger.(±²®’8¿‚­1
+n
+java:S4276!"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(û“±8¿‚­1
+G	java:S106!"+Replace this use of System.out by a logger.(û“±8À‚­1
+Q
+java:S1481!"4Remove this unused "methodReference" local variable.(û“±8À‚­1
+L	java:S106""+Replace this use of System.out by a logger.(îÍ±©øÿÿÿÿ8À‚­1
+G	java:S106%"+Replace this use of System.out by a logger.(™˜çÄ8£¶˜‚­1
+L	java:S106)"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8ØŒ™‚­1

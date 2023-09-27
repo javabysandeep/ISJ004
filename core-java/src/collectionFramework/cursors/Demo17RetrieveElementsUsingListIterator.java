@@ -1,4 +1,4 @@
-package collectionFramework.listImplementations;
+package collectionFramework.cursors;
 
 import java.util.ArrayList;
 import java.util.Iterator;

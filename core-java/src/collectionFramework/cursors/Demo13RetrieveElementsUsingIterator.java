@@ -1,12 +1,11 @@
-package collectionFramework.listImplementations;
+package collectionFramework.cursors;
 
+import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Vector;
 
-public class Demo14RetrieveElementsUsingIteratorVector {
+public class Demo13RetrieveElementsUsingIterator {
     public static void main(String[] args) {
-        Vector<Integer> integers = new Vector<>();
+        ArrayList<Integer> integers = new ArrayList<>();
         integers.add(90);
         integers.add(87);
         integers.add(65);
