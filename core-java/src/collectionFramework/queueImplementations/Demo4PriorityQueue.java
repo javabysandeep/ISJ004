@@ -5,12 +5,13 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class Demo4 {
+public class Demo4PriorityQueue {
     public static void main(String[] args) {
         // Comparator<Employee> comparator = (emp1, emp2) -> emp2.getEmployeeSalary() - emp1.getEmployeeSalary();
         Comparator<Employee> comparator = (emp1, emp2) -> emp1.getEmployeeId() - emp2.getEmployeeId();
 
         Queue<Employee> employees = new PriorityQueue<>(comparator);
+
         Employee employee1 = new Employee(11, "Salman", 100000);
         Employee employee2 = new Employee(1, "Javed", 2567);
         Employee employee3 = new Employee(33, "Vaibhav", 6789);

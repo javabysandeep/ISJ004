@@ -1,7 +1,0 @@
-
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìòùU
-‡
-java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(åüñÄùÿÿÿÿ8¬Ï¯‚­1
-E	java:S106"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ
-M
-java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18´Ï¯‚­1

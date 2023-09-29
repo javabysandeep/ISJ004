@@ -3,7 +3,7 @@ package collectionFramework.setImplementations;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Demo4 {
+public class Demo4HashSet {
     public static void main(String[] args) {
         Set<Course> courseSet = new HashSet<>();
 

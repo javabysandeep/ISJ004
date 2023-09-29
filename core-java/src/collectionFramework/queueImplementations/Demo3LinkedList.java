@@ -4,9 +4,10 @@ package collectionFramework.queueImplementations;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Demo3 {
+public class Demo3LinkedList {
     public static void main(String[] args) {
         Queue<Employee> employees = new LinkedList<>();
+
         Employee employee1 = new Employee(11, "Salman", 100000);
         Employee employee2 = new Employee(1, "Javed", 2567);
         Employee employee3 = new Employee(33, "Vaibhav", 6789);

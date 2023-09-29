@@ -3,7 +3,7 @@ package collectionFramework.setImplementations;
 import java.util.HashSet;
 import java.util.Set;
 
-public class HashSetDemo1 {
+public class Demo1HashSet {
     public static void main(String[] args) {
         //1. unique
         //2. no insertion order

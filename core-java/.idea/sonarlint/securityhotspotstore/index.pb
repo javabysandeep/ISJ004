@@ -129,15 +129,3 @@ w
 Gsrc/collectionFramework/listImplementations/Demo11RetrieveElements.java,4\4\44b1659abe13d015c1ce240db553ca1d294ba6a1
 w
 Gsrc/collectionFramework/listImplementations/Demo12RetrieveElements.java,0\2\0272d61bd4bd86ad1500842cadd053f45c777c56
-„
-Tsrc/collectionFramework/listImplementations/Demo13RetrieveElementsUsingIterator.java,4\e\4ecf2508107c2ac41804e15aa34b2adeab317d95
-Ž
-^src/collectionFramework/listImplementations/Demo13RetrieveElementsUsingIteratorLinkedList.java,4\b\4b95622c62dbd2e0d188233a8c355ab875f19d74
-Š
-Zsrc/collectionFramework/listImplementations/Demo14RetrieveElementsUsingIteratorVector.java,6\a\6acac1b68999c0ffd325667e0d670a41ecfa211b
-}
-Msrc/collectionFramework/listImplementations/Demo15RetrieveElementsVector.java,7\3\730d789a7b45a5f47d26e1f22510d08616eeaf37
-Š
-Zsrc/collectionFramework/listImplementations/Demo16RetrieveElementsUsingIteratorRemove.java,c\c\cce8e144e1c88b009ddec6c3aaffd190deb48754
-ˆ
-Xsrc/collectionFramework/listImplementations/Demo17RetrieveElementsUsingListIterator.java,c\0\c066bade0c7f4a1fb55ab219dc20ff509240296d

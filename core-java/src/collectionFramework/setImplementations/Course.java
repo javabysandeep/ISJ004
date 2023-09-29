@@ -8,13 +8,14 @@ import lombok.*;
 @NoArgsConstructor
 @ToString
 @EqualsAndHashCode
-public class Course /*implements Comparable<Course>*/ {
+public class Course implements Comparable<Course> {
     private int courseId;
     private String courseName;
     private int coursePrice;
 
-  /*  @Override
+    @Override
     public int compareTo(Course course) {
-        return this.coursePrice - course.coursePrice;
-    }*/
+        // return this.coursePrice - course.coursePrice;
+        return this.courseId - course.courseId;
+    }
 }

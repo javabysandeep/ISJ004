@@ -3,7 +3,7 @@ package collectionFramework.queueImplementations;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Demo2 {
+public class Demo2LinkedList {
     public static void main(String[] args) {
         Queue<Integer> integerQueue = new LinkedList<>();
         integerQueue.add(10);

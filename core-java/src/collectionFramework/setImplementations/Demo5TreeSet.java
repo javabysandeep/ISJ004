@@ -1,10 +1,9 @@
 package collectionFramework.setImplementations;
 
-import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Demo5 {
+public class Demo5TreeSet {
     public static void main(String[] args) {
         Set<Course> courseSet = new TreeSet<>();
 
